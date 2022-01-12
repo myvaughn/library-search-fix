@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         Website Accessibility Fix
-// @namespace    https://github.com/myvaughn/user-script-template
+// @name         Yale Library Quicksearch Accessibility Fix
+// @namespace    https://github.com/myvaughn/library-search-fix
 // @version      1.00
-// @updateURL    https://raw.githubusercontent.com/myvaughn/user-script-template/main/templateFix.js
-// @downloadURL  https://raw.githubusercontent.com/myvaughn/user-script-template/main/templateFix.js
-// @description  Fixes accessibility issues in website
+// @updateURL    https://raw.githubusercontent.com/myvaughn/libraary-search-fix/main/quicksearchFix.user.js
+// @downloadURL  https://raw.githubusercontent.com/myvaughn/libraary-search-fix/main/quicksearchFix.user.js
+// @description  Fixes accessibility issues in Yale Library Quicksearch (https://search.library.yale.edu)
 // @author       Michael Vaughn <michael.vaughn@yale.edu>
-// @match        https://path.to.site/subdir/*
+// @match        https://search.library.yale.edu/*
 // ==/UserScript==
 
 // Adapted from https://github.com/terrill/whova-a11y-fix/blob/main/WhovaA11yFix.user.js - by Terrill Thompson of UW
