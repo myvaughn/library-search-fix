@@ -37,6 +37,5 @@
 function init() {
   // Modify page h1 to reflect user script in place
   const pageTitle = document.querySelector("page-title");
-  pageTitle.append(" test");
-  // alert('Hello World!');
+  pageTitle.innerHTML = "Quicksearch - with fixes";
 }
