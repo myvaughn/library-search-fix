@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yale Library Quicksearch Accessibility Fix
 // @namespace    https://github.com/myvaughn/library-search-fix
-// @version      1.00
+// @version      1.01
 // @updateURL    https://raw.githubusercontent.com/myvaughn/libraary-search-fix/main/quicksearchFix.user.js
 // @downloadURL  https://raw.githubusercontent.com/myvaughn/libraary-search-fix/main/quicksearchFix.user.js
 // @description  Fixes accessibility issues in Yale Library Quicksearch (https://search.library.yale.edu)
