@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yale Library Quicksearch Accessibility Fix
 // @namespace    https://github.com/myvaughn/library-search-fix
-// @version      1.01
+// @version      1.00
 // @updateURL    https://raw.githubusercontent.com/myvaughn/library-search-fix/main/quicksearchFix.user.js
 // @downloadURL  https://raw.githubusercontent.com/myvaughn/library-search-fix/main/quicksearchFix.user.js
 // @description  Fixes accessibility issues in Yale Library Quicksearch (https://search.library.yale.edu)
@@ -42,7 +42,7 @@ function init() {
   // Change divs with class category_title to H2s
   // const categoryTitles = document.querySelectorAll(".category_title");
   // categoryTitles.forEach(
-  //   var newTitle = document.createElement('h2');
+  //   var newTitle = document.createElement('h2'); //not correct syntax
   //   element => element.
   // )
 }
